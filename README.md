@@ -1,1 +1,1 @@
-# akka_repo
+# Spring Boot + Swagger demo app
