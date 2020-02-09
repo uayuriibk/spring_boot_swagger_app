@@ -1,13 +1,13 @@
-package com.yuriib.springboot.swagger_app;
+package com.yuriib.springboot.swagger_app.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SwaggerAppApplication {
+public class SwaggerApp {
 
     public static void main(String[] args) {
-        SpringApplication.run(SwaggerAppApplication.class, args);
+        SpringApplication.run(SwaggerApp.class, args);
     }
 
 }
